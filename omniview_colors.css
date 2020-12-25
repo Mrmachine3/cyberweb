@@ -14,11 +14,11 @@ paletton.com/*/
 /*
 I chose:
 
-#23CE6B
-#008dd5
-#e2aa78
-#51453d
-#4240b5
+#000505
+#a7abb4
+#fbfbff
+#246eb9
+#90a959
 
 */
 
@@ -34,21 +34,21 @@ td{
 }
 
 #one{
-  background-color: #23CE6B;
+  background-color: #000505;
 }
 
 #two{
-  background-color: #008dd5;
+  background-color: #a7abb4;
 }
 
 #three{
-  background-color: #e2aa78;
+  background-color: #fbfbff;
 }
 
 #four{
-  background-color: #272932;
+  background-color: #246eb9;
 }
 
 #five{
-  background-color: #393e41;
+  background-color: #90a959;
 }
