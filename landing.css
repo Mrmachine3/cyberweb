@@ -1,0 +1,78 @@
+/*
+I chose:
+
+#000505   Rich Black
+#a7abb4   Silver Metallic
+#fbfbff   Ghost White
+#246eb9   Spanish Blue
+#90a959   Asparagus
+
+*/
+
+body{
+  font-family: 'Montserrat';
+  color: #000505;
+  text-align: center;
+  background-color: #a7abb4;
+  border: 40px solid #246eb9;
+  /* border-top: 0px; */
+  /*border-bottom: 0px;*/
+  margin: 0px;
+}
+
+p{
+  color: #000505;
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.userinput{
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+h2{
+  margin-bottom: 2.5%;
+}
+
+#sub{
+  border-radius: 25px;
+  background: #90a959;
+  height: 40px;
+  width: 160px;
+  font-family: "Montserrat";
+  font-size: 1em;
+  margin-bottom: 20px;
+}
+
+.art{
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+td{
+  height: 10px;
+  padding: 25px;
+  border: 3px solid white;
+}
+
+#one{
+  background-color: #000505;
+}
+
+#two{
+  background-color: #a7abb4;
+}
+
+#three{
+  background-color: #fbfbff;
+}
+
+#four{
+  background-color: #246eb9;
+}
+
+#five{
+  background-color: #90a959;
+}
